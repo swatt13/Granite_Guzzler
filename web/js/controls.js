@@ -1,5 +1,4 @@
 $(function() {
-  $('wowslider').hide();
     //Simple filter controls
     $('.simplefilter li').click(function() {
         $('.simplefilter li').removeClass('active');
@@ -18,4 +17,13 @@ $(function() {
         $('.sort-btn').removeClass('active');
         $(this).addClass('active');
     });
+    //Slider appearance
+    $('.hvr-radial-out').hover(
+    function () {
+    $('.wowslider-container0').show();
+  },
+    function () {
+    $('.wowslider-container0').hide();
+  }
+);
 });

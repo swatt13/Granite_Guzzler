@@ -1,9 +1,4 @@
-<!--A Design by W3layouts
-Author: W3layout
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
+
 <!DOCTYPE html>
 
 <html lang="en">
@@ -59,11 +54,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 midClick: true,
                 removalDelay: 300,
                 mainClass: 'my-mfp-zoom-in'
+
             });
         });
     </script>
     <!--//pop-up-box -->
 
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
 	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
 	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
 	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
@@ -75,7 +75,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div id="menu" class="panel" role="navigation">
                 <div class="wrap-content">
                     <div class="profile-menu text-center">
-                        <img class="border-effect" src="images/logo.png" alt=" ">
+                        <img class="border-effect" src="images/fred.png" alt=" ">
                         <h3>MENU</h3>
 
                         <div class="pro-menu">
@@ -97,7 +97,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <a href="#menu" class="menu-link"><i class="fa fa-list-ul"></i></a>
                     </div>
                     <div class="Profile-mid">
-                        <h5 class="pro-link"><a href="main.html">Granite Guzler</a></h5>
+                        <h5 class="pro-link"><a href="main.html">Granite Guzzler</a></h5>
                     </div>
                     <div class="Profile-right">
                                       <!-- modal -->
@@ -178,28 +178,29 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
                     </div>
                 </div>
-                <div class=" banner-bottom">
+                <div class="banner-bottom">
                     <ul>
-                        <li><a href="flight.html" class="hvr-radial-out"><i class="fa fa-glass" aria-hidden="true"></i></a>
+                        <li><a class="hvr-radial-out"><i class="fa fa-glass" aria-hidden="true"></i></a>
                             <h6>Pre</h6></li>
-                        <li><a href="train.html" class="hvr-radial-out"><i class="fa fa-users" aria-hidden="true"></i></a>
+                        <li><a class="hvr-radial-out"><i class="fa fa-users" aria-hidden="true"></i></a>
                             <h6>Club</h6></li>
-                        <li><a href="bus.html" class="hvr-radial-out"><i class="fa fa-cutlery" aria-hidden="true"></i></a>
+                        <li><a class="hvr-radial-out"><i class="fa fa-cutlery" aria-hidden="true"></i></a>
                             <h6>Food</h6></li>
-                        <li><a href="hotel.html" class="hvr-radial-out"><i class="fa fa-bus" aria-hidden="true"></i></a>
+                        <li><a class="hvr-radial-out"><i class="fa fa-bus" aria-hidden="true"></i></a>
                             <h6>Transport</h6></li>
                     </ul>
                 </div>
                 <!-- //banner -->
                 <div>
+	
 	</div>
                 <!--/welcome-->
                 <div class=" welcome">
-                    <h3 class="w3ls-title">Welcome Guzzlers!</h3>
+                    <h3 class="Guzzlerls-title">Welcome Guzzlers!</h3>
                     <div class="b-bottom">
                         <div class="col-md-6 banner_bottom_left">
-                            <h3>Stuff goes here</h3>
-                            <p><i>Ut enim ad minima veniam</i> Quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae
+                            <h3>Underground Klub</h3>
+                            <p><i>Club</i> Quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae
                                 consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
                             <div class="wthree_more wthree_more1">
                                 <a href="#" class="button--wayra button--border-thick button--text-upper button--size-s">Read More</a>
@@ -215,80 +216,23 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <!--/footer-->
                 <div class=" footer">
                     <div class="col-md-3 _footer_grid">
-                        <h3>About Us</h3>
-                        <p>Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus.
-                        </p>
-                        <h3 class="logo"><a href="main.html">G<span>r</span>a<span>n</span>i<span>t</span><span>e</span> <span>G</span>u<span>z</span>z<span>l</span><span>e</span><span>r</span> </a></h3>
                     </div>
                     <div class="col-md-2 _footer_grid">
-                        <h3>Links</h3>
-                        <ul>
-                            <li><a href="main.html">Home</a></li>
-                            <li><a href="short-codes.html">Pre</a></li>
-                            <li><a href="about.html">Club</a></li>
-                            <li><a href="contact.html">Food</a></li>
-                        </ul>
+
                     </div>
                     <div class="col-md-4 _footer_grid">
-                        <h3>Twitter Posts</h3>
-                        <ul class="_footer_grid_list">
-                            <li>Ut aut reiciendis voluptatibus maiores alias, ut aut reiciendis.
-                                <span><i class="fa fa-twitter" aria-hidden="true"></i> 02 days ago</span></li>
-                            <li>Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus.
-                                <span><i class="fa fa-twitter" aria-hidden="true"></i> 03 days ago</span></li>
-                        </ul>
+
                     </div>
                     <div class="col-md-3 _footer_grid">
-                        <h3>Newsletter</h3>
-                        <p>Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus.</p>
-                        <ul class="social">
-                            <form action="#" method="post">
-                                <input type="text" name="Email" placeholder="Enter Email..." required="">
 
-                                <input type="submit" value="Submit">
-                                <div class="clearfix"></div>
-                            </form>
-                        </ul>
                     </div>
                     <div class="clearfix"> </div>
                 </div>
                 <div class=" agileinfo_copy_right">
-                    <div class="agileinfo_copy_right_left">
-                        <p>© 2016 Granite Guzler. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
-                    </div>
+
                     <div class="agileinfo_copy_right_right">
-                        <ul class="social">
-                            <li>
-                                <a class="social-linkedin" href="#">
-                                    <i></i>
-                                    <div class="tooltip"><span>Facebook</span></div>
-                                </a>
-                            </li>
-                            <li>
-                                <a class="social-twitter" href="#">
-                                    <i></i>
-                                    <div class="tooltip"><span>Twitter</span></div>
-                                </a>
-                            </li>
-                            <li>
-                                <a class="social-google" href="#">
-                                    <i></i>
-                                    <div class="tooltip"><span>Google+</span></div>
-                                </a>
-                            </li>
-                            <li>
-                                <a class="social-facebook" href="#">
-                                    <i></i>
-                                    <div class="tooltip"><span>Pinterest</span></div>
-                                </a>
-                            </li>
-                            <li>
-                                <a class="social-instagram" href="#">
-                                    <i></i>
-                                    <div class="tooltip"><span>Instagram</span></div>
-                                </a>
-                            </li>
-                        </ul>
+
+
                     </div>
                     <div class="clearfix"> </div>
                 </div>
